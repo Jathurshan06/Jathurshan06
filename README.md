@@ -36,4 +36,4 @@ Currently focused on AWS, Terraform, Docker, and CI/CD.
 
 ### 📫 Connect with me
 - [GitHub](https://github.com/Jathurshan06)
-- LinkedIn: https://www.linkedin.com/in/jathurshan-sabaraththinam-344a79176/
+- [LinkedIn](https://www.linkedin.com/in/jathurshan-sabaraththinam-344a79176/)
