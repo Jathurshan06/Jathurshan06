@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm Jathurshan 👋
 
-<!--
-**Jathurshan06/Jathurshan06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | System Administrator | Cloud & Automation Enthusiast
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience in Linux systems, cloud infrastructure, and DevOps automation.
+Currently focused on AWS, Terraform, Docker, and CI/CD.
+
+---
+
+### 🛠 Tech Stack
+- **Cloud:** AWS
+- **IaC:** Terraform
+- **CI/CD:** GitHub Actions, Jenkins
+- **Containers:** Docker, Kubernetes
+- **OS:** Linux (Ubuntu, CentOS)
+- **Monitoring:** CloudWatch, Prometheus, Grafana
+- **Languages:** Bash, Python, C#
+
+---
+
+### 📌 Featured Projects
+- 🔧 AWS Infrastructure using Terraform
+- 🚀 CI/CD pipeline with GitHub Actions
+- 🐳 Dockerized applications
+- ☸ Kubernetes deployments
+
+---
+
+### 🎯 Current Goals
+- AWS Solutions Architect Associate
+- Terraform Associate Certification
+- Building a cloud-hosted DevOps portfolio
+
+---
+
+### 📫 Connect with me
+- GitHub: https://github.com/Jathurshan06
+- LinkedIn: https://www.linkedin.com/in/jathurshan-sabaraththinam-344a79176/
